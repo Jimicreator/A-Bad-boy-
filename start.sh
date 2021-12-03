@@ -4,7 +4,7 @@ then
   git clone https://github.com/Jimicreator/A-Bad-boy-
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone $UPSTREAM_REPO /Jimicreator
+  git clone $UPSTREAM_REPO /Evamaria
 fi
 cd /A-Bad-boy-
 pip3 install -U -r requirements.txt
